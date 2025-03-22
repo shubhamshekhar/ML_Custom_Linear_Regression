@@ -40,7 +40,7 @@ MSE = \frac{1}{n} \sum (Y_{actual} - Y_{predicted})^2
 ## 🚀 How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/custom-linear-regression.git
+   git clone https://github.com/shubhamshekhar/ML_Custom_Linear_Regression.git
    ```
 2. Navigate to the project directory:
    ```bash
