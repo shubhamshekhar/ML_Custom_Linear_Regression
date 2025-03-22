@@ -66,3 +66,11 @@ This project is licensed under the **MIT License**.
 ---
 **💡 Contributions & Issues:** Feel free to open a pull request or issue if you'd like to contribute! 🚀
 
+**Difficulty:** 5/10
+
+**Resume Value:** 6/10
+
+**Learning Value:** 9/10
+
+**Real World Impact:** 6/10
+
